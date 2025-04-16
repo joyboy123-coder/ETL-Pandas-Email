@@ -1,7 +1,11 @@
 # 📦 ETL + Pandas + Snowflake + Email Automation 🚀
 
+
 Hey there! 👋  
 This project is all about taking a messy CSV file with 50,000 rows 🐛, cleaning it up using **Pandas** 🧼, loading it into **Snowflake** ❄️, and then sending a fancy email report 📧 — all in one smooth flow!
+
+![ETL Pandas to Snowflake and Email Automation Thumbnail](images/thumbnail/thumbnail_image.png)
+
 
 ---
 
